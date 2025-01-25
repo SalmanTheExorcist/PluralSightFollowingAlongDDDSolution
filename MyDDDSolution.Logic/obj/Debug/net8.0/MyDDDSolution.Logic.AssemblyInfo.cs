@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyDDDSolution.Logic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f62155962eb28dfb77b7b538b5bbba2ec1db9cd3")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyDDDSolution.Logic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyDDDSolution.Logic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
