@@ -1,0 +1,17 @@
+/home/demonicallyten/MyPluralSight_January_13th_2025/MyDomainDrivenDesignExperiments/MyDDDSolution/MyDDDSolution.Tests/bin/Debug/net8.0/MyDDDSolution.Tests.deps.json
+/home/demonicallyten/MyPluralSight_January_13th_2025/MyDomainDrivenDesignExperiments/MyDDDSolution/MyDDDSolution.Tests/bin/Debug/net8.0/MyDDDSolution.Tests.runtimeconfig.json
+/home/demonicallyten/MyPluralSight_January_13th_2025/MyDomainDrivenDesignExperiments/MyDDDSolution/MyDDDSolution.Tests/bin/Debug/net8.0/MyDDDSolution.Tests.dll
+/home/demonicallyten/MyPluralSight_January_13th_2025/MyDomainDrivenDesignExperiments/MyDDDSolution/MyDDDSolution.Tests/bin/Debug/net8.0/MyDDDSolution.Tests.pdb
+/home/demonicallyten/MyPluralSight_January_13th_2025/MyDomainDrivenDesignExperiments/MyDDDSolution/MyDDDSolution.Tests/bin/Debug/net8.0/MyDDDSolution.Logic.dll
+/home/demonicallyten/MyPluralSight_January_13th_2025/MyDomainDrivenDesignExperiments/MyDDDSolution/MyDDDSolution.Tests/bin/Debug/net8.0/MyDDDSolution.Logic.pdb
+/home/demonicallyten/MyPluralSight_January_13th_2025/MyDomainDrivenDesignExperiments/MyDDDSolution/MyDDDSolution.Tests/obj/Debug/net8.0/MyDDDSolution.Tests.csproj.AssemblyReference.cache
+/home/demonicallyten/MyPluralSight_January_13th_2025/MyDomainDrivenDesignExperiments/MyDDDSolution/MyDDDSolution.Tests/obj/Debug/net8.0/MyDDDSolution.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/demonicallyten/MyPluralSight_January_13th_2025/MyDomainDrivenDesignExperiments/MyDDDSolution/MyDDDSolution.Tests/obj/Debug/net8.0/MyDDDSolution.Tests.AssemblyInfoInputs.cache
+/home/demonicallyten/MyPluralSight_January_13th_2025/MyDomainDrivenDesignExperiments/MyDDDSolution/MyDDDSolution.Tests/obj/Debug/net8.0/MyDDDSolution.Tests.AssemblyInfo.cs
+/home/demonicallyten/MyPluralSight_January_13th_2025/MyDomainDrivenDesignExperiments/MyDDDSolution/MyDDDSolution.Tests/obj/Debug/net8.0/MyDDDSolution.Tests.csproj.CoreCompileInputs.cache
+/home/demonicallyten/MyPluralSight_January_13th_2025/MyDomainDrivenDesignExperiments/MyDDDSolution/MyDDDSolution.Tests/obj/Debug/net8.0/MyDDDSol.D2082129.Up2Date
+/home/demonicallyten/MyPluralSight_January_13th_2025/MyDomainDrivenDesignExperiments/MyDDDSolution/MyDDDSolution.Tests/obj/Debug/net8.0/MyDDDSolution.Tests.dll
+/home/demonicallyten/MyPluralSight_January_13th_2025/MyDomainDrivenDesignExperiments/MyDDDSolution/MyDDDSolution.Tests/obj/Debug/net8.0/refint/MyDDDSolution.Tests.dll
+/home/demonicallyten/MyPluralSight_January_13th_2025/MyDomainDrivenDesignExperiments/MyDDDSolution/MyDDDSolution.Tests/obj/Debug/net8.0/MyDDDSolution.Tests.pdb
+/home/demonicallyten/MyPluralSight_January_13th_2025/MyDomainDrivenDesignExperiments/MyDDDSolution/MyDDDSolution.Tests/obj/Debug/net8.0/MyDDDSolution.Tests.genruntimeconfig.cache
+/home/demonicallyten/MyPluralSight_January_13th_2025/MyDomainDrivenDesignExperiments/MyDDDSolution/MyDDDSolution.Tests/obj/Debug/net8.0/ref/MyDDDSolution.Tests.dll
